@@ -9,17 +9,17 @@
 
 
 .roundbox{
+    padding: 15px;
     font-family: 'space mono', sans-serif;
     border-radius: 5px;
     background-color: rgb(255, 118, 77);
-    width: fit-content;
-    height: fit-content;
+    width: 50%;
+    height: 50%;
     font-size: larger;
 }
 
 .container{
     display: flex;
-    align-items: center;
     justify-content: space-between;
 }
 
@@ -31,4 +31,10 @@ h1{
 h2{
     text-align: center;
     font-family: 'space mono', sans-serif;
+}
+
+img{
+    max-width: 700px;
+    border-radius: 30px;
+    padding: 15px;
 }
