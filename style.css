@@ -1,20 +1,24 @@
 .roundbox{
-    font-family: 'space mono', sans-serif;
-    border-radius: 5px;
-    background-color: rgb(255, 118, 77);
-    width: fit-content;
-    height: fit-content;
-    font-size: larger;
-}
-
-
-.roundbox{
+    text-align: center;
     padding: 15px;
     font-family: 'space mono', sans-serif;
     border-radius: 5px;
-    background-color: rgb(255, 118, 77);
-    width: 50%;
-    height: 50%;
+    background-color: #cc1e2c;
+    width: fit-content;
+    height: fit-content;
+    font-size: larger;
+    color: white;
+}
+
+.roundboxTitle{
+    text-align: center;
+    padding: 15px;
+    font-family: 'space mono', sans-serif;
+    border-radius: 5px;
+    background-color: #741630;
+    color: white;
+    width: 2;
+    height: 2;
     font-size: larger;
 }
 
@@ -26,15 +30,33 @@
 h1{
     text-align: center;
     font-family: 'space mono', sans-serif;
+    margin: 0 auto;   
+    color: white;
 }
 
 h2{
     text-align: center;
     font-family: 'space mono', sans-serif;
+    color: white;
+}
+
+h3{
+    text-align: center;
+    font-family: 'space mono', sans-serif;
+    color: white;
 }
 
 img{
     max-width: 700px;
     border-radius: 30px;
     padding: 15px;
+}
+
+.bg{
+    background-color: #241721;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
 }
