@@ -1,0 +1,34 @@
+.roundbox{
+    font-family: 'space mono', sans-serif;
+    border-radius: 5px;
+    background-color: rgb(255, 118, 77);
+    width: fit-content;
+    height: fit-content;
+    font-size: larger;
+}
+
+
+.roundbox{
+    font-family: 'space mono', sans-serif;
+    border-radius: 5px;
+    background-color: rgb(255, 118, 77);
+    width: fit-content;
+    height: fit-content;
+    font-size: larger;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h1{
+    text-align: center;
+    font-family: 'space mono', sans-serif;
+}
+
+h2{
+    text-align: center;
+    font-family: 'space mono', sans-serif;
+}
