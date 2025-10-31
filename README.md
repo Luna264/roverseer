@@ -13,7 +13,7 @@ this project was made in VSCode using HTML and CSS.
 
 **struggles**
 
-its been a hot second since i last coded a website, and by that i mean about 4 years. there was a lot of information to learn in one day (more on that later) and so the mistakes i made kept me stumped for longer because i was absolutely clueless. alsooo, yea, one day. i dont think i expected how tight my schedule would be school first started, so i def did not plan right for this. time is, once again, the biggest issue i had with this project. however, i am pretty satisfied for the way it turned out!! i think that, someday, i might go back to crash course and this project and work on them to get them to their full potential. 
+its been a hot second since i last coded a website, and by that i mean about 4 years. there was a lot of information to learn in one day (more on that later) and so the mistakes i made kept me stumped for longer because i was absolutely clueless. alsooo, yea, one day. i dont think i expected how tight my schedule would be school first started, so i def did not plan right for this. time is, once again, the biggest issue i had with this project. however, i am pretty satisfied for the way it turned out!! i think that, someday, i might go back to crash course and this project and work on them to get them to their full potential. (*and...I REALLY LIKE THIS PROJECTS NAME!!! AND MY OTHERS TOO!! HOW DID I MAKE THESE NAMES???)
 
 
 [![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
