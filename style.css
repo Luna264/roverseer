@@ -1,25 +1,36 @@
 .roundbox{
     text-align: center;
     padding: 15px;
+    margin: 15px;
     font-family: 'space mono', sans-serif;
-    border-radius: 5px;
+    border-radius: 30px;
     background-color: #cc1e2c;
-    width: fit-content;
-    height: fit-content;
+    width: 50%;
+    height: 50%;
     font-size: larger;
     color: white;
+    transition: background-color 0.3s ease;
 }
+
+.roundbox:hover {
+  background-color: #ff5435;
+   
+}
+
+
+
 
 .roundboxTitle{
     text-align: center;
     padding: 15px;
     font-family: 'space mono', sans-serif;
-    border-radius: 5px;
+    border-radius: 7px;
     background-color: #741630;
     color: white;
     width: 2;
     height: 2;
     font-size: larger;
+    transition: background-color 0.3s ease;
 }
 
 .container{
@@ -30,7 +41,7 @@
 h1{
     text-align: center;
     font-family: 'space mono', sans-serif;
-    margin: 0 auto;   
+    margin: 0;   
     color: white;
 }
 
@@ -38,12 +49,14 @@ h2{
     text-align: center;
     font-family: 'space mono', sans-serif;
     color: white;
+    margin: 0; 
 }
 
 h3{
     text-align: center;
     font-family: 'space mono', sans-serif;
     color: white;
+    margin: 0; 
 }
 
 img{
